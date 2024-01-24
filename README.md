@@ -43,3 +43,4 @@
 | 20   | [autolak](https://github.com/autolak)               | python, LLM                    | 좋은 강의 감사합니다 |
 | 21   | [leechimins](https://github.com/leechimins)         | C, Python, Game Programming    | 깃허브 너무 어렵네요... 열심히 연습해야겠어요!!      |
 | 22   | [seoeunbi25](https://github.com/seoeunbi25)         | Python, C++                    | 좋은 강의 감사합니다!! 
+| 23   | [sungyeon6](https://github.com/sungyeon6)           | C++     | 유익한 강의 감사합니다! 공부 열심히 하겠습니다. |
